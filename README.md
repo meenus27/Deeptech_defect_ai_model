@@ -1,0 +1,1 @@
+# Deeptech_defect_ai_model
