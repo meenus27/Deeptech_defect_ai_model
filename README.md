@@ -9,8 +9,8 @@ The model achieves near-perfect classification across 9 distinct categories. The
 ### Final Confusion Matrix
 Below is the visualization of the model's performance on the test dataset:
 
-![Confusion Matrix](<img width="932" height="527" alt="Screenshot 2026-02-06 212030" src="https://github.com/user-attachments/assets/8eceb4af-f603-42ec-9f54-30e6796cdb0e" />
-)
+<img width="932" height="527" alt="Screenshot 2026-02-06 212030" src="https://github.com/user-attachments/assets/8eceb4af-f603-42ec-9f54-30e6796cdb0e" />
+
 
 ## Analysis of Results
 
