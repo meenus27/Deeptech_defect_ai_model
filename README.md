@@ -9,8 +9,10 @@ The model achieves near-perfect classification across 9 distinct categories. The
 ### Final Confusion Matrix
 Below is the visualization of the model's performance on the test dataset:
 
-![Confusion Matrix](confusion_matrix.png)
-
+![Confusion Matrix](<img width="932" height="527" alt="Screenshot 2026-02-06 212030" src="https://github.com/user-attachments/assets/8eceb4af-f603-42ec-9f54-30e6796cdb0e" />
+)
+[detailed analysis] (<img width="854" height="504" alt="Screenshot 2026-02-06 212059" src="https://github.com/user-attachments/assets/667ede34-7534-4cd8-9d08-9de6aafedb16" />
+)
 ## Analysis of Results
 
 The model demonstrates exceptional accuracy, particularly in identifying critical electrical defects like **Shorts**, **Opens**, and **Corrosion**.
@@ -33,10 +35,4 @@ The model demonstrates exceptional accuracy, particularly in identifying critica
 | **Shorts** | Unintended connections between conductive paths. |
 | **Other** | Miscellaneous anomalies not covered by the above. |
 
-## How to Run
-1. Ensure you have the dependencies installed: `pip install -r requirements.txt`
-2. Run the evaluation script: `python evaluate.py --image_path /path/to/data`
-3. The confusion matrix will be saved to the `outputs/` directory.
-
 ---
-**Status:** Production Ready ✅
