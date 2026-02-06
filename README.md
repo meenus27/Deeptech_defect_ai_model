@@ -11,8 +11,7 @@ Below is the visualization of the model's performance on the test dataset:
 
 ![Confusion Matrix](<img width="932" height="527" alt="Screenshot 2026-02-06 212030" src="https://github.com/user-attachments/assets/8eceb4af-f603-42ec-9f54-30e6796cdb0e" />
 )
-[detailed analysis] (<img width="854" height="504" alt="Screenshot 2026-02-06 212059" src="https://github.com/user-attachments/assets/667ede34-7534-4cd8-9d08-9de6aafedb16" />
-)
+
 ## Analysis of Results
 
 The model demonstrates exceptional accuracy, particularly in identifying critical electrical defects like **Shorts**, **Opens**, and **Corrosion**.
